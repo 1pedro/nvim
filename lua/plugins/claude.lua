@@ -6,6 +6,6 @@ return {
   },
   config = true,
   keys = {
-    -- Your keymaps here
+    { "<leader>a", nil, desc = "AI/Claude Code" },
   },
 }
